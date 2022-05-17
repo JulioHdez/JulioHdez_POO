@@ -1,2 +1,2 @@
 # JulioHdez_POO
-Repositorio ejemplo para clase de Programación Orientada a Objetos
+Repositorio ejemplo 1 para clase de Programación Orientada a Objetos
